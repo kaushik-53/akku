@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #f4f6f8;
+  background-color: #a3afbc;
   margin: 0;
   padding: 0;
   display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #ffffff;
   margin-top: 60px;
   padding: 2rem;
   border-radius: 12px;
